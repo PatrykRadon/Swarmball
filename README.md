@@ -3,7 +3,7 @@
 * Maria Korkuć
 * Wioletta Kurek
 * Wojciech Korzybski
-* Patryk Radoń
+* Patryk Radoń (Team Leader)
 * Karol Kocierz
 
 ## Short description of the idea
