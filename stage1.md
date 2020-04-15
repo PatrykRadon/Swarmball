@@ -43,6 +43,8 @@
 	1. Base level (from horizontal plane to steeper ascending slope)
 	2. Fluctuations and obstacles (Noise up and down bumps, with the increasing amplitude, with an increasing diagnal nature. That will make it go from small hills and valleys to a structure simmilar to a Worms Armaggedon map)
 	
+	![final map extreme](https://i.imgur.com/aPxkHBW.png)
+	
 	
 
 
