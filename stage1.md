@@ -2,24 +2,22 @@
 
 ### TASK 1 (Karol & Maria)
 
+1. Build an Open AI environment:
 
-#### 1. Build an Open AI environment:
+	1. Cart-pole environment to modify:
+  	
+	>https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
+	2.\_\_init\_\_():
 
-1. Cart-pole environment to modify:
-  >https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
-  
-2.\_\_init\_\_():
-
-  >parameters (patrz PITEEE->Plan Projektu)
-3. step():
-
-  >NeuralNet output (patrz PITEEE->Plan Projektu) -> simulate pymunk step
-
-  >implement DEATH FRY
+	>parameters (patrz PITEEE->Plan Projektu)
+	3. step():
+	
+	>NeuralNet output (patrz PITEEE->Plan Projektu) -> simulate pymunk step
+	>implement DEATH FRY
 
 4. render():
 
-  >pygame or https://github.com/openai/gym/blob/master/gym/envs/classic_control/rendering.py
+	>pygame or https://github.com/openai/gym/blob/master/gym/envs/classic_control/rendering.py
 
 #### 2. wrap it in wrap_env()
 
@@ -30,14 +28,14 @@
 1. Build the Agent on cart-pole environment
 
 	1. general tutorial and example:
-
-    >https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial?hl=PL
+	
+	>https://www.tensorflow.org/agents/tutorials/1_dqn_tutorial?hl=PL
 	2. tf.agents to choose from:
-
-      >https://github.com/tensorflow/agents/tree/master/tf_agents/agents
+	
+	>https://github.com/tensorflow/agents/tree/master/tf_agents/agents
 	3. about agents:
 
-      >https://www.reddit.com/r/reinforcementlearning/comments/8w7mn2/comparison_selection_of_rl_algorithms_in/
+	>https://www.reddit.com/r/reinforcementlearning/comments/8w7mn2/comparison_selection_of_rl_algorithms_in/
 
 ### TASK 3 (Wiola)
 1. build Random Map Generator function with parameterized "difficulty level"
