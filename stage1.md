@@ -40,7 +40,7 @@
 ### TASK 3 (Wiola)
 1. build Random Map Generator function with parameterized "difficulty level".
 
->The maps will be a composition of randomly generated fluctuations and obstacles (Noise-like up and down bumps, with the increasing amplitude, and an increasingly diagonal nature. That will make it go from small hills and valleys to a structure simmilar to a Worms Armaggedon map)
+	The maps will be a composition of randomly generated fluctuations and obstacles (Noise-like up and down bumps, with the increasing amplitude, and an increasingly diagonal nature. That will make it go from small hills and valleys to a structure simmilar to a Worms Armaggedon map)
 	
 <p align="center">
   <img src="https://i.imgur.com/aPxkHBW.png">
