@@ -38,7 +38,12 @@
 	>https://www.reddit.com/r/reinforcementlearning/comments/8w7mn2/comparison_selection_of_rl_algorithms_in/
 
 ### TASK 3 (Wiola)
-1. build Random Map Generator function with parameterized "difficulty level"
+1. build Random Map Generator function with parameterized "difficulty level" that will be build of:
+
+	1. Base level (from horizontal plane to steeper ascending slope)
+	2. Fluctuations and obstacles (Noise up and down bumps, with the increasing amplitude, with an increasing diagnal nature. That will make it go from small hills and valleys to a structure simmilar to a Worms Armaggedon map)
+	
+	
 
 
 
