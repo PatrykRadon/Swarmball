@@ -41,12 +41,11 @@
 1. build Random Map Generator function with parameterized "difficulty level" that will be build of:
 
 	1. Base level (from horizontal plane to steeper ascending slope)
-	2. Fluctuations and obstacles (Noise up and down bumps, with the increasing amplitude, with an increasing diagnal nature. That will make it go from small hills and valleys to a structure simmilar to a Worms Armaggedon map)
+	2. Fluctuations and obstacles (Noise-like up and down bumps, with the increasing amplitude, and an increasingly diagonal nature. That will make it go from small hills and valleys to a structure simmilar to a Worms Armaggedon map)
 	
-	![final map extreme](https://i.imgur.com/aPxkHBW.png)
-	
-	
-
+<p align="center">
+  <img src="https://i.imgur.com/aPxkHBW.png">
+</p>
 
 
 
