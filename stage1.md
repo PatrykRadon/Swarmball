@@ -14,12 +14,11 @@
 	
 	>NeuralNet output (patrz PITEEE->Plan Projektu) -> simulate pymunk step
 	>implement DEATH FRY
-
-4. render():
+	4. render():
 
 	>pygame or https://github.com/openai/gym/blob/master/gym/envs/classic_control/rendering.py
 
-#### 2. wrap it in wrap_env()
+2. Wrap it in wrap_env()
 
 >https://github.com/tensorflow/agents/blob/master/tf_agents/environments/suite_gym.py
 
