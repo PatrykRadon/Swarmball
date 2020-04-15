@@ -6,8 +6,8 @@
 #### 1. Build an Open AI environment:
 
 1. Cart-pole environment to modify:
+>https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
 
-  >https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
 2.\_\_init\_\_():
 
   >parameters (patrz PITEEE->Plan Projektu)
